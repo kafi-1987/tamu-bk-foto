@@ -136,7 +136,7 @@
       <div><span class="pill tag-live"><i class="dot"></i> Kios Tamu Digital • Ruang BK Terintegrasi</span>
         <h1 class="h-hero" style="margin:10px 0 6px">Buku Tamu Digital BK ${esc(info.nama_sekolah)}</h1>
         <p class="t2" style="max-width:640px">Selamat datang di ruang Bimbingan &amp; Konseling. Silakan pilih kategori kunjungan Anda untuk memulai pencatatan yang aman, ramah, dan terjaga kerahasiaannya.</p></div>
-      <div class="safe-box"><span class="eyebrow" style="display:flex;gap:6px;align-items:center">${ic('shield', 14)} Data Dirahasiakan</span><b style="font-size:18px">Hanya untuk Guru BK</b><div class="small muted">Sesuai kode etik Guru BK Indonesia</div></div>
+      <div class="safe-box"><span class="eyebrow" style="display:flex;gap:6px;align-items:center">${ic('shield', 14)} Data Dirahasiakan</span><b style="font-size:18px">Hanya untuk Guru BK</b><div class="small muted">Sesuai kode etik Guru BK</div></div>
     </section>
     ${stepper(1)}
     <h2 class="h-sm" style="margin-bottom:2px">Pilih Kategori Kunjungan</h2><p class="small muted" style="margin-bottom:12px">Pilih tipe pengunjung untuk menyesuaikan formulir registrasi</p>
